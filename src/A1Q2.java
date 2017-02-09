@@ -65,5 +65,7 @@ public class A1Q2 {
             jerrycan.turnLeft();
             jerrycan.move();
             jerrycan.turnLeft();
+            jerrycan.turnLeft();
+            
     }
 }
